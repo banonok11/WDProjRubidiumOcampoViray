@@ -15,15 +15,35 @@ a {
 
 
 header {
-    background-color: #1f1f1f;
-    padding: 10px 0;
-    text-align: center;
+    background-color: #202224;
 }
 
+header h2 {
+    margin: auto;
+    color: white;
+    text-align: center;
+}
 header h1 {
+    display: flex;
+    align-items: center;
+    background-color: #545454;
     font-size: 32px;
     margin: 0;
     color: white;
+    padding: 10px 30px;
+}
+
+header h1 a {
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    color: white;
+    padding-left: 5%;
+    justify-content: center;
+}
+
+header h1 a:hover {
+    color: lightgray;
 }
 
 .top-banner {
@@ -142,9 +162,10 @@ footer {
 }
 
 footer a {
-    color: #ffe68d;
+    color: white;
 }
 
 footer a:hover {
-    text-decoration: underline;
+    color: lightgray;
+    font-weight: bold;
 }
