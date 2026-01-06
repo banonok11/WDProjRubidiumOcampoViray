@@ -1,5 +1,13 @@
-# WDProjRubidiumOcampoViray Project Proposal
+# Q3 Proposal Update
+## Final Title
+## Features
+## Details
+## Definition of Done
 
+
+
+
+# WDProjRubidiumOcampoViray Project Proposal
 ## Meta Royale
 ### Your Ultimate Guide to the Clash Royale Arena
 
