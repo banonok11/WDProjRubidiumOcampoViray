@@ -9,6 +9,7 @@
   
   <link rel="icon" href="/WDProjRubidiumOcampoViray/images/logo.ico">
   <link rel="stylesheet" href="/WDProjRubidiumOcampoViray/public/external.css">
+  <script src="public/localstorage.js" defer></script>
 </head>
 
 <body>
@@ -46,6 +47,33 @@
       Whether you're a beginner, average, or even a pro player, this site is guaranteed  
       to give you more knowledge and master the different strategies in Clash Royale.</p>
   </section>
+
+  <section class="user-preference">
+    <h1>Customize Your Experience</h1>
+    
+    <form id="preferenceForm">
+      
+      <label for="playerName">Player Name:</label>
+      <input type="text" id="playerName" required>
+
+      <label for="favoriteArchetype">Favorite Deck Archetype:</label>
+      <select id="favoriteArchetype" required>
+        <option value="">Select Archetype</option>
+        <option value="control">Control</option>
+        <option value="beatdown">Beatdown</option>
+        <option value="cycle">Cycle</option>
+        <option value="siege">Siege</option>
+        <option value="bridgespam">Bridgespam</option>
+        <option value="bait">Bait</option>
+      </select>
+      
+      <button type="submit">Save Preferences</button>
+      <button type="button" id="resetPreferences">Reset Preferences</button>
+    </form>
+    
+    <p id="savedMessage" style="margin-top:20px;"></p>
+  </section>
+
   <footer>
     <p>&copy; <span id="year"></span> Ocampo, Viray</p>
     <p>

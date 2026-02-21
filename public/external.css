@@ -89,6 +89,71 @@ header h2 {
   text-align: justify;
 }
 
+/* user preference form */
+.user-preference {
+  background-color: #4d4d4d;
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 30px;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.user-preference h1 {
+  margin-bottom: 20px;
+}
+
+.user-preference form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.user-preference label {
+  text-align: left;
+  font-weight: bold;
+}
+
+.user-preference input,
+.user-preference select {
+  padding: 10px;
+  font-size: 1rem;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+}
+
+.user-preference input:focus, .user-preference select:focus {
+  box-shadow: 0 0 5px rgba(255, 255, 255, 0.6);
+}
+
+.user-preference button {
+  margin-top: 10px;
+  padding: 12px;
+  font-size: 1rem;
+  font-weight: bold;
+  background-color: #0571d3;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.user-preference button:hover {
+  background-color: #0357a6;
+}
+
+#toggleMode {
+  margin-top: 15px;
+}
+
+#savedMessage {
+  margin-top: 20px;
+  font-weight: bold;
+  font-size: 1rem;
+}
+
 /* archetype cards */
 .archetypes-grid {
   display: grid;
@@ -163,6 +228,14 @@ header h2 {
   padding: 10px;
   border-radius: 10px;
   text-align: center;
+}
+
+.favorite-highlight {
+  background-color: gold;
+  border: 3px solid #B59410;
+  box-shadow: 0 0 15px #B59410;
+  transform: scale(1.05);
+  transition: 0.3s ease;
 }
 
 /* video */
