@@ -40,6 +40,14 @@ By creating this feature, we aim to improve the user’s experience on the websi
    
 ### Updated Wireframes
 
+The new feature will only be implemented in the Home, Deck Archetypes, and Meta Cards pages. The wireframes below show how it will be implemented.
+
+Home: ![updateHome](https://github.com/banonok11/WDProjRubidiumOcampoViray/blob/main/images/updateHome.png)
+
+Deck Archetypes: ![update_DeckArchetypes](https://github.com/banonok11/WDProjRubidiumOcampoViray/blob/main/images/updateDeck%20Archetypes.png)
+
+Meta Cards: ![update_MetaCards](https://github.com/banonok11/WDProjRubidiumOcampoViray/blob/main/images/updateMeta%20Cards.png)
+
 ---
 
 # Q3 Proposal Update
