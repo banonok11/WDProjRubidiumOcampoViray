@@ -3,13 +3,37 @@
 ### localStorage Implementation
 #### Purpose
 #### How it is to be used
-1. Create
+1. **Create**
+   
+   The user will input their:
+   - Player name
+   - Favorite deck archetype
+     
+   When the form is submitted, the data is stored in localStorage as an object.
+   
+   After that, the website will display a confirmation message, and will highlight cards based on the chosen archetype in the Deck Archetypes page and Meta Cards page.
+   
+2. **Read**
+   
+   When a page loads, the website retrieves the saved data.
 
-2. Read
+   It will then display a welcome message (in the homepage), and automatically highlight matching cards in the Meta Cards page.
 
-3. Update
+3. **Update**
 
-4. Delete
+   The user can update their preferences by:
+   - Re-entering a new name
+   - Selecting a different archetype
+   - Clicking the **Save Preferences** button again
+
+   After updating preferences, the previous data in localStorage will be overwritten, and the highlights will be immediately updated across the pages.
+   
+5. **Delete**
+
+   The user can click the **Reset Preferences** button to remove the stored data in localStorage
+
+   The website will then remove all highlights and clear the saved message.
+   
 ### Updated Wireframes
 
 ---
