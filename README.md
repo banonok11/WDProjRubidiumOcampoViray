@@ -10,7 +10,7 @@
 * We will find the different types of meta cards and information by using trusted websites like RoyaleAPI, Stats Royale and Deck Shop.
 * We will help Clash Royale users to become better at the game by helping them adjust to a playstyle that suits them and helps increase their winrate.
 ## Definition of Done
-* The project is done when all webpages and features are impemented, work on both phone and laptops, and error-free
+* The project is done when all webpages and features are implemented, work on both phone and laptops, and error-free
 
 
 
