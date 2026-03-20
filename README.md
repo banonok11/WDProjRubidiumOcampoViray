@@ -1,7 +1,10 @@
 # FINAL MODIFICATION PROPOSAL
 ## Meta Royale
 ### localStorage Implementation
-### Updated wireframes
+### Updated Wireframes
+
+
+
 
 # Q3 Proposal Update
 ## Meta Royale
