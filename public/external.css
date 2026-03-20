@@ -80,7 +80,7 @@ header h2 {
 
 /* intro */
 .intro {
-  background-color: #4d4d4d;
+  background-color: rgb(77, 77, 77, 0.75);
   max-width: 900px;
   margin: 20px auto;
   padding: 20px;
@@ -91,7 +91,7 @@ header h2 {
 
 /* user preference form */
 .user-preference {
-  background-color: #4d4d4d;
+  background-color: rgb(77, 77, 77, 0.75);
   max-width: 600px;
   margin: 40px auto;
   padding: 30px;
