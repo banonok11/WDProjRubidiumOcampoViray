@@ -3,8 +3,7 @@
 ### localStorage Implementation
 ### Updated Wireframes
 
-
-
+---
 
 # Q3 Proposal Update
 ## Meta Royale
@@ -20,8 +19,7 @@
 ### Definition of Done
 * The project is done when all webpages and features are implemented, work on both phone and laptops, and error-free
 
-
-
+---
 
 # WDProjRubidiumOcampoViray Project Proposal
 ## Meta Royale
