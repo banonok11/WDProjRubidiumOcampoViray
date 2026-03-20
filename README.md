@@ -1,6 +1,15 @@
 # FINAL MODIFICATION PROPOSAL
 ## Meta Royale
 ### localStorage Implementation
+#### Purpose
+#### How it is to be used
+1. Create
+
+2. Read
+
+3. Update
+
+4. Delete
 ### Updated Wireframes
 
 ---
