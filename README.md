@@ -1,15 +1,20 @@
+# FINAL MODIFICATION PROPOSAL
+## Meta Royale
+### localStorage Implementation
+### Updated wireframes
+
 # Q3 Proposal Update
 ## Meta Royale
-## Features
+### Features
 * works on both mobile phones and laptops
 * has webpages dedicated to explaining the different deck archetypes to help players find their playstyle
 * comes with a table guide that shows arena trophy ranges, cards to expect, and progression tips
 * has a deck archetype filter where users can browse different Clash Royale cards
-## Details
+### Details
 * We will use JS in order to create a filter for the different types of cards.
 * We will find the different types of meta cards and information by using trusted websites like RoyaleAPI, Stats Royale and Deck Shop.
 * We will help Clash Royale users to become better at the game by helping them adjust to a playstyle that suits them and helps increase their winrate.
-## Definition of Done
+### Definition of Done
 * The project is done when all webpages and features are implemented, work on both phone and laptops, and error-free
 
 
