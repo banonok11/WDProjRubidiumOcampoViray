@@ -2,6 +2,10 @@
 ## Meta Royale
 ### localStorage Implementation
 #### Purpose
+The purpose of this feature is to allow users to explore and select their preferred deck archetype based on the descriptions provided on the website, and enhance the website by implementing a Full CRUD system using localStorage. By understanding and learning about the purpose and true use for each archetype, users will be able to decide which deck type best suits their play style. This also allows users to personalize their experience.
+
+By creating this feature, we aim to improve the user’s experience on the website by helping them develop more skills and improve their performance at the game itself. We are also ensuring that as the developers of this website, users will be able to enjoy and have a more engaging gameplay experience. This feature makes the website more interactive as it allows for dynamic customization across different pages such as Deck Archetype and Meta Cards.
+﻿
 #### How it is to be used
 1. **Create**
    
